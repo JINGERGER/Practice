@@ -1,4 +1,6 @@
 # Practice
 Github code uploading practice
 
-I am a fan of Real Madrid.
+I was a fan of Real Madrid.
+
+Now I am a fan of Manchester United.
